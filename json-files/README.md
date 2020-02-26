@@ -2,6 +2,7 @@
 
 * [ကြိယာများ (Verbs)](verbs.json)
 * [ကြိယာဝိသေသနများ (Adverbs)](adverbs.json)
+* [နာမဝိသေသနများ (Adjectives)](adjectives.json)
 
 [WIP]
 
