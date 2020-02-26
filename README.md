@@ -1,6 +1,6 @@
 # မြန်မာစကားလုံးများ (Myanmar Words)
 
-မြန်မာစကားလုံးများကို natural language processing (NLP)  လုပ်ဆောင်ချက်များတွင် အထောက်အကူပြုနိုင်ရန်အတွက် Text file format (သို့) JSON file format များဖြင့် စုစည်းထားပါသည်။
+မြန်မာစကားလုံးများကို natural language processing (NLP)  လုပ်ဆောင်ချက်များတွင် အထောက်အကူပြုနိုင်ရန်အတွက် Text file format များ၊ JSON file format များဖြင့် စုစည်းထားပါသည်။
 
 ## အချက်အလက်ဖိုင်များ
 
