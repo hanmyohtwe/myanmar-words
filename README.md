@@ -1,27 +1,16 @@
-# Myanmar Words (မြန်မာစကားလုံးများ)
+# မြန်မာစကားလုံးများ (Myanmar Words)
 
-Myanmar (Burmese) word list (text files) by part of speech (ဝါစင်္ဂ).
+မြန်မာစကားလုံးများကို natural language processing (NLP)  လုပ်ဆောင်ချက်များတွင် အထောက်အကူပြုနိုင်ရန်အတွက် Text file format (သို့) JSON file format များဖြင့် စုစည်းထားပါသည်။
 
-* [နာမ်များ (Nouns)](နာမ်များ)
-* [နာမ်စားများ (Pronouns)](နာမ်စားများ)
-* [ကြိယာများ (Verbs)](ကြိယာများ)
-* [နာမဝိသေသနများ (Adjectives)](နာမဝိသေသနများ)
-* [ကြိယာဝိသေသနများ (Adverbs)](ကြိယာဝိသေသနများ)
-* [ဝိဘတ်များ (Postpositions)](ဝိဘတ်များ)
-* [သမ္ဗန္ဓများ (Conjunctions)](သမ္ဗန္ဓများ)
-* [ပစ္စည်းများ (Particles)](ပစ္စည်းများ)
-* [အာမေဍိတ်များ (Interjections)](အာမေဍိတ်များ)
+## အချက်အလက်ဖိုင်များ
 
-## Feedback and Contributing
+* [ဝါစင်္ဂအလိုက် မြန်မာစကားလုံးများ (Text Files)](text-files)
 
-Check out the [Contributing](https://github.com/myanmartools/myanmar-words/blob/master/CONTRIBUTING.md) page to see the best places to log issues and start discussions.
+## အကြံဉာဏ်ပေးခြင်းနှင့် ပူးပေါင်းပါဝင်ခြင်း
 
-## References
+အကြံဉာဏ်ပေးခြင်းနှင့် ပူးပေါင်းပါဝင်မှုများ လိုအပ်နေပါသည်။ ပါဝင်ရန်အတွက် ဖိတ်ခေါ်အပ်ပါသည်။
+[ပူးပေါင်းပါဝင်ခြင်း](https://github.com/myanmarlinguistics/myanmar-words/blob/master/CONTRIBUTING.md) စာမျက်နှာတွင် အသေးစိတ်ဖော်ပြပေးထားပါသည်။
 
-* Wiktionary (ဝစ်ရှင်နရီ)
-* မြန်မာအဘိဓာန်
-* မြန်မာသဒ္ဒါ
+## ခွင့်ပြုမှု
 
-## License
-
-This repository is licensed with the [MIT](https://github.com/myanmartools/myanmar-words/blob/master/LICENSE) license.
+ဤ repository ရှိ အချက်အလက်များကို [MIT](https://github.com/myanmarlinguistics/myanmar-words/blob/master/LICENSE) လိုင်စင်ဖြင့် ခွင့်ပြုပေးထားပါသည်။
